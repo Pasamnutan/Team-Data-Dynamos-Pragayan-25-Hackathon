@@ -74,11 +74,6 @@ SHABBIR AHMED HASAN
 -
 ---
 
-### License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ### Acknowledgements
 We thank **Pragyan 25 Hackathon** organizers for this opportunity and acknowledge the resources provided during the event.
 
